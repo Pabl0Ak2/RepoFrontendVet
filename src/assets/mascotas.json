@@ -1,0 +1,29 @@
+{
+  "mascotas": [
+    {
+      "nombre": "Bobby",
+      "descripcion": "Un perro juguetón y amigable que le encanta correr en el parque.",
+      "imagen": "assets/images/bobby.jpg"
+    },
+    {
+      "nombre": "Mittens",
+      "descripcion": "Un gato curioso que disfruta explorar cada rincón de la casa.",
+      "imagen": "assets/images/mittens.jpg"
+    },
+    {
+      "nombre": "Coco",
+      "descripcion": "Una conejita suave y cariñosa que adora que la acaricien.",
+      "imagen": "assets/images/coco.jpg"
+    },
+    {
+      "nombre": "Goldie",
+      "descripcion": "Un pez dorado que nada alegremente en su pecera.",
+      "imagen": "assets/images/goldie.jpg"
+    },
+    {
+      "nombre": "Tweety",
+      "descripcion": "Un loro colorido que canta y habla en su jaula.",
+      "imagen": "assets/images/tweety.jpg"
+    }
+  ]
+}

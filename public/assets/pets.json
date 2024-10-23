@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Max",
+        "description": "Max fue adoptado por una familia amorosa que lo saca a pasear todos los días. Ahora vive feliz y rodeado de niños que lo adoran.",
+        "type": "Perro"
+    },
+    {
+        "name": "Luna",
+        "description": "Luna encontró un hogar con una pareja que la cuida y le da mucho cariño. Se ha convertido en la mascota favorita de la casa.",
+        "type": "Perra"
+    },
+    {
+        "name": "Buddy",
+        "description": "Buddy fue rescatado de la calle y ahora vive en un hogar donde siempre hay alguien con él. Su nuevo dueño dice que es el mejor amigo que ha tenido.",
+        "type": "Perro"
+    },
+    {
+        "name": "Bella",
+        "description": "Bella fue adoptada por una familia que le brinda mucho amor. A menudo juegan juntos en el parque, y Bella se ha vuelto muy popular entre los vecinos.",
+        "type": "Perra"
+    },
+    {
+        "name": "Rocky",
+        "description": "Rocky fue encontrado en un refugio y ahora vive en una casa donde le enseñan trucos y lo llevan a aventuras al aire libre.",
+        "type": "Perro"
+    },
+    {
+        "name": "Coco",
+        "description": "Coco fue adoptada por una amante de los perros que la lleva a todas partes. Ahora, es la compañera perfecta en todos sus viajes.",
+        "type": "Perra"
+    }
+]
